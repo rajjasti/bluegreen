@@ -7,7 +7,6 @@ $green = imagecolorallocate($im, 0, 255, 0);
 
 // Draw a filled rectangle
 //imagefilledrectangle($im, 0, 0, 199, 199, $blue);
-
 imagefilledrectangle($im, 0, 0, 199, 199, $green);
 
 // Save the image
